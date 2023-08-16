@@ -1,0 +1,23 @@
+body{
+    color: black;
+    background-color: antiquewhite;
+}
+
+html{
+    font-size: 20px;
+}
+a{
+    color: black;
+}
+
+a:hover, a:active{
+    color: burlywood;
+}
+
+table,th,td,tr,caption{
+    border: 2px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
